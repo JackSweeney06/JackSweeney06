@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JackSweeney06
-- 👀 I’m interested in ... Basketball 🏀 Bodybuilding 🏋️ and of course programming!
+- 👀 I’m interested in ... Basketball 🏀 Powerlifting 🏋️ and of course programming!
 - 🌱 I’m currently learning ... I'm trying to learn everything I can about being a fullstack engineer 
 - 💞️ I’m looking to collaborate on ... Beginner projects
 - 📫 How to reach me ... jacksweeney063@gmail.com
